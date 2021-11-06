@@ -13,6 +13,6 @@ Utilizando o framework Angular 2 ou superior (desejável), crie um algoritmo que
 
 # Resultado: 
 
-Nesse exercicio não é solicitado layout apenas a listagem.
+Nesse teste não é solicitado layout, apenas, listagem.
 
 ![Captura de tela 2021-11-05 213941](https://user-images.githubusercontent.com/42192877/140592025-5307a593-9dc1-441b-bcb0-8141d6cbf600.png)
