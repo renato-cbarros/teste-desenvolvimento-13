@@ -1,6 +1,6 @@
 # Teste de desenvolvimento Ex. 13
 
-*O layout foi desenvolvido em Angular
+*O layout foi desenvolvido em Angular 12
 ### Para executar o projeto:
 
 > Verifique se você está executando o node 12.4.0 com o camando node -v em uma janela de terminal / console. As versões mais antigas produzem erros, mas as versões mais recentes funcionam.
@@ -15,4 +15,4 @@ Utilizando o framework Angular 2 ou superior (desejável), crie um algoritmo que
 
 Nesse exercicio não é solicitado layout apenas a listagem.
 
-![Captura de tela 2021-11-05 183709](https://user-images.githubusercontent.com/42192877/140581615-19086a9b-b68d-4b4e-8b25-5e3b8fd48d2b.png)
+![Captura de tela 2021-11-05 213941](https://user-images.githubusercontent.com/42192877/140592025-5307a593-9dc1-441b-bcb0-8141d6cbf600.png)
