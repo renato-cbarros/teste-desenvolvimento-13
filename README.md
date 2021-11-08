@@ -1,6 +1,6 @@
 # Teste de desenvolvimento Ex. 13
 
-*O layout foi desenvolvido em Angular 12
+*O teste foi desenvolvido em Angular 12
 ### Para executar o projeto:
 
 > Verifique se você está executando o node 12.4.0 com o camando node -v em uma janela de terminal / console. As versões mais antigas produzem erros, mas as versões mais recentes funcionam.
